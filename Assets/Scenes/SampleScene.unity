@@ -270,6 +270,7 @@ GameObject:
   - component: {fileID: 583902415}
   - component: {fileID: 583902414}
   - component: {fileID: 583902419}
+  - component: {fileID: 583902420}
   m_Layer: 0
   m_Name: Sun
   m_TagString: Untagged
@@ -447,6 +448,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   orbitSpeed: 0.8
+--- !u!114 &583902420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 583902412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71c37645319748118e243b8769e106a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EclipseDetector
+  moonLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  target: {fileID: 1041291022}
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -5661,7 +5678,7 @@ GameObject:
   - component: {fileID: 1410758221}
   - component: {fileID: 1410758223}
   - component: {fileID: 1410758224}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Moon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5842,6 +5859,39 @@ MonoBehaviour:
   decelerationRate: 0.2
   minSpeed: 0.35
   maxSpeed: 2.5
+--- !u!1 &1888747554
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1888747555}
+  m_Layer: 0
+  m_Name: icons
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1888747555
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1888747554}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.29053, y: 0.10287, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1910500877}
+  - {fileID: 2073076324}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1910500875
 GameObject:
   m_ObjectHideFlags: 0
@@ -5852,6 +5902,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1910500877}
   - component: {fileID: 1910500876}
+  - component: {fileID: 1910500878}
   m_Layer: 0
   m_Name: MoonIcon
   m_TagString: Untagged
@@ -5926,13 +5977,26 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1910500875}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.4, y: 5.99, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.69053, y: 5.88713, z: 0}
   m_LocalScale: {x: 0.8, y: 0.8, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1888747555}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1910500878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1910500875}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68b1bca6abc6d4c5f8b6c8a3f8937d73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MoonIcon
+  moonIcon: {fileID: 1910500875}
 --- !u!1 &2073076322
 GameObject:
   m_ObjectHideFlags: 0
@@ -6017,12 +6081,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2073076322}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.4, y: 5.99, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.69053, y: 5.88713, z: 0}
   m_LocalScale: {x: 0.9, y: 0.9, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1888747555}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -6032,8 +6096,7 @@ SceneRoots:
   - {fileID: 619394802}
   - {fileID: 1041291022}
   - {fileID: 1410758220}
-  - {fileID: 1910500877}
   - {fileID: 583902418}
-  - {fileID: 2073076324}
   - {fileID: 683265978}
   - {fileID: 939526979}
+  - {fileID: 1888747555}

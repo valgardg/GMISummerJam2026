@@ -19,5 +19,6 @@ public class SunController : MonoBehaviour
         Vector2 tangent = new Vector2(-toSun.y, toSun.x);
 
         rb.linearVelocity = tangent * orbitSpeed;
+
     }
 }
