@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "SummerGMI.slnx"
+    "dotnet.defaultSolution": "GMISummerJam2026.slnx"
 }

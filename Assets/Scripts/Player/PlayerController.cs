@@ -4,7 +4,7 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private SpriteRenderer spriteRenderer;
-
+    [SerializeField] private Animator _animator;
     private Rigidbody2D rb;
     private Vector2 input;
 
@@ -35,6 +35,11 @@ public class PlayerController : MonoBehaviour
         {
             facingDirection = Mathf.Sign(input.x);
             spriteRenderer.flipX = input.x < 0;
+            _animator.SetBool("isRunning", true);
+        }
+        else
+        {
+            _animator.SetBool("isRunning", false);
         }
     }
 

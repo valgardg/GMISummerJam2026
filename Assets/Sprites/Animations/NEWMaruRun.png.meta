@@ -1,0 +1,964 @@
+fileFormatVersion: 2
+guid: 1eb96c98dff7a4688a7ef189ccf5ebb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5447377772883492087
+    second: NEWMaruRun_0
+  - first:
+      213: 4100746203902664838
+    second: NEWMaruRun_1
+  - first:
+      213: 9023957153978641726
+    second: NEWMaruRun_2
+  - first:
+      213: 8416421025858448864
+    second: NEWMaruRun_3
+  - first:
+      213: 3402599314846352002
+    second: NEWMaruRun_4
+  - first:
+      213: -6108030047420944362
+    second: NEWMaruRun_5
+  - first:
+      213: 7119351521293784994
+    second: NEWMaruRun_6
+  - first:
+      213: 6062893617349134531
+    second: NEWMaruRun_7
+  - first:
+      213: 7936714183285511376
+    second: NEWMaruRun_8
+  - first:
+      213: -6393824124837153104
+    second: NEWMaruRun_9
+  - first:
+      213: 2900070176395891269
+    second: NEWMaruRun_10
+  - first:
+      213: -3311811717707266920
+    second: NEWMaruRun_11
+  - first:
+      213: 7876089039053196721
+    second: NEWMaruRun_12
+  - first:
+      213: 3355684892968016966
+    second: NEWMaruRun_13
+  - first:
+      213: -310650549550029745
+    second: NEWMaruRun_14
+  - first:
+      213: -3850926301625341022
+    second: NEWMaruRun_15
+  - first:
+      213: 3679633738632651126
+    second: NEWMaruRun_16
+  - first:
+      213: 3553452738755581854
+    second: NEWMaruRun_17
+  - first:
+      213: 6486189528745582012
+    second: NEWMaruRun_18
+  - first:
+      213: -7177077944274699134
+    second: NEWMaruRun_19
+  - first:
+      213: 6256808928526035547
+    second: NEWMaruRun_20
+  - first:
+      213: 892690255538546658
+    second: NEWMaruRun_21
+  - first:
+      213: 5937750701344779746
+    second: NEWMaruRun_22
+  - first:
+      213: -4155721049530476239
+    second: NEWMaruRun_23
+  - first:
+      213: -3549741282489394796
+    second: NEWMaruRun_24
+  - first:
+      213: -1937569909188894121
+    second: NEWMaruRun_25
+  - first:
+      213: 5818979041055395663
+    second: NEWMaruRun_26
+  - first:
+      213: -8746659524365024660
+    second: NEWMaruRun_27
+  - first:
+      213: 4645214102957727447
+    second: NEWMaruRun_28
+  - first:
+      213: 7950563517355454926
+    second: NEWMaruRun_29
+  - first:
+      213: -3101272934186354309
+    second: NEWMaruRun_30
+  - first:
+      213: 3657842775037220689
+    second: NEWMaruRun_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NEWMaruRun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc34161939f89b40800000000000000
+      internalID: 5447377772883492087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68066ad12f6c8e830800000000000000
+      internalID: 4100746203902664838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_2
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ded3778398b3d70800000000000000
+      internalID: 9023957153978641726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_3
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edeb66b4522dc470800000000000000
+      internalID: 8416421025858448864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_4
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28287629c06783f20800000000000000
+      internalID: 3402599314846352002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_5
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610ff0a980beb3ba0800000000000000
+      internalID: -6108030047420944362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_6
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a75ad91d740dc260800000000000000
+      internalID: 7119351521293784994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_7
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 3000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c804155f99b32450800000000000000
+      internalID: 6062893617349134531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4998acf7fd42e60800000000000000
+      internalID: 7936714183285511376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b632ca95d29447a0800000000000000
+      internalID: -6393824124837153104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_10
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54218cfc57e1f3820800000000000000
+      internalID: 2900070176395891269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_11
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894051b1ac41a02d0800000000000000
+      internalID: -3311811717707266920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_12
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd0d10704d7d4d60800000000000000
+      internalID: 7876089039053196721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cd08781a9c19e20800000000000000
+      internalID: 3355684892968016966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_14
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f446ac898f850bbf0800000000000000
+      internalID: -310650549550029745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_15
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 2000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aba9678ee2ce8ac0800000000000000
+      internalID: -3850926301625341022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671edb6c36fa01330800000000000000
+      internalID: 3679633738632651126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e975aab5076605130800000000000000
+      internalID: 3553452738755581854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_18
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd1db6d203930a50800000000000000
+      internalID: 6486189528745582012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c373ea2a5e56c90800000000000000
+      internalID: -7177077944274699134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_20
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a694c0296a4d650800000000000000
+      internalID: 6256808928526035547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_21
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7e3d7ce09736c00800000000000000
+      internalID: 892690255538546658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_22
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed6b76adc0276250800000000000000
+      internalID: 5937750701344779746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_23
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1000
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1395f1139b9e356c0800000000000000
+      internalID: -4155721049530476239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4991ea46c19ccbec0800000000000000
+      internalID: -3549741282489394796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7526f4bee6e5c15e0800000000000000
+      internalID: -1937569909188894121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fcc898b9a21c050800000000000000
+      internalID: 5818979041055395663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_27
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c628fee118f9d9680800000000000000
+      internalID: -8746659524365024660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_28
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de1e608d9d177040800000000000000
+      internalID: 4645214102957727447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_29
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1f6282563165e60800000000000000
+      internalID: 7950563517355454926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_30
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79f94692b016f4d0800000000000000
+      internalID: -3101272934186354309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWMaruRun_31
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 720
+        height: 1000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1579252bf9443c230800000000000000
+      internalID: 3657842775037220689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 393ce74497c7e4874ae2e93aa903b195
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":4.0},"gridSpriteSize":{"x":720.0,"y":1000.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      NEWMaruRun_0: 5447377772883492087
+      NEWMaruRun_1: 4100746203902664838
+      NEWMaruRun_10: 2900070176395891269
+      NEWMaruRun_11: -3311811717707266920
+      NEWMaruRun_12: 7876089039053196721
+      NEWMaruRun_13: 3355684892968016966
+      NEWMaruRun_14: -310650549550029745
+      NEWMaruRun_15: -3850926301625341022
+      NEWMaruRun_16: 3679633738632651126
+      NEWMaruRun_17: 3553452738755581854
+      NEWMaruRun_18: 6486189528745582012
+      NEWMaruRun_19: -7177077944274699134
+      NEWMaruRun_2: 9023957153978641726
+      NEWMaruRun_20: 6256808928526035547
+      NEWMaruRun_21: 892690255538546658
+      NEWMaruRun_22: 5937750701344779746
+      NEWMaruRun_23: -4155721049530476239
+      NEWMaruRun_24: -3549741282489394796
+      NEWMaruRun_25: -1937569909188894121
+      NEWMaruRun_26: 5818979041055395663
+      NEWMaruRun_27: -8746659524365024660
+      NEWMaruRun_28: 4645214102957727447
+      NEWMaruRun_29: 7950563517355454926
+      NEWMaruRun_3: 8416421025858448864
+      NEWMaruRun_30: -3101272934186354309
+      NEWMaruRun_31: 3657842775037220689
+      NEWMaruRun_4: 3402599314846352002
+      NEWMaruRun_5: -6108030047420944362
+      NEWMaruRun_6: 7119351521293784994
+      NEWMaruRun_7: 6062893617349134531
+      NEWMaruRun_8: 7936714183285511376
+      NEWMaruRun_9: -6393824124837153104
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
