@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3659340319090359075}
   m_Layer: 0
   m_Name: TriggerCollider2D
-  m_TagString: Untagged
+  m_TagString: Item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -92,7 +92,7 @@ GameObject:
   - component: {fileID: 5145789349531840012}
   m_Layer: 0
   m_Name: item_prefab
-  m_TagString: Untagged
+  m_TagString: Item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 2303459770826607941}
   m_Layer: 7
   m_Name: PhysicsCollider2D
-  m_TagString: Untagged
+  m_TagString: Item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -304,6 +304,10 @@ PrefabInstance:
     - target: {fileID: 5531720769628515374, guid: 45d22768c56db482c9c06b1e63fb2893, type: 3}
       propertyPath: m_Name
       value: interact_icon_prefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 5531720769628515374, guid: 45d22768c56db482c9c06b1e63fb2893, type: 3}
+      propertyPath: m_TagString
+      value: Item
       objectReference: {fileID: 0}
     - target: {fileID: 8557313948680989549, guid: 45d22768c56db482c9c06b1e63fb2893, type: 3}
       propertyPath: m_LocalPosition.x
