@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 4f55f6accee2e4048b8486206debcd49
+guid: 2bbeacf8348ec4eb5a9cd42ed4cea946
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6195398839047473866
-    second: T_HouseSketch_003_0
-  - first:
-      213: 132536545067893537
-    second: T_HouseSketch_003_1
+      213: 6300036848738375475
+    second: can_of_soup_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 3500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,7 +97,33 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -116,35 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: T_HouseSketch_003_0
+      name: can_of_soup_0
       rect:
         serializedVersion: 2
-        x: 714
-        y: 1264
-        width: 998
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 63535bc9495850aa0800000000000000
-      internalID: -6195398839047473866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: T_HouseSketch_003_1
-      rect:
-        serializedVersion: 2
-        x: 246
+        x: 0
         y: 0
-        width: 1109
-        height: 1034
+        width: 1157
+        height: 1890
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1238788194dd6d100800000000000000
-      internalID: 132536545067893537
+      spriteID: 3371ce8822a3e6750800000000000000
+      internalID: 6300036848738375475
       vertices: []
       indices: 
       edges: []
@@ -163,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -173,8 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      T_HouseSketch_003_0: -6195398839047473866
-      T_HouseSketch_003_1: 132536545067893537
+      can_of_soup_0: 6300036848738375475
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

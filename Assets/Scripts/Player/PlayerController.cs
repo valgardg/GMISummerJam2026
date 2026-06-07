@@ -16,8 +16,6 @@ public class PlayerController : MonoBehaviour
     private void Update()
     {
         input.x = Input.GetAxisRaw("Horizontal");
-        // input.y = Input.GetAxisRaw("Vertical");
-        input = input.normalized;
 
         if (input.x != 0)
         {
@@ -27,6 +25,9 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.linearVelocity = input * moveSpeed;
+        rb.linearVelocity = new Vector2(
+            input.x * moveSpeed,
+            rb.linearVelocity.y
+        );
     }
 }
