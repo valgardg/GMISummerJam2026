@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,6 +11,10 @@ public class InventoryManager : MonoBehaviour
     private List<GameObject> inventoryItems = new List<GameObject>();
 
     public static InventoryManager Instance { get; private set; }
+
+    public static event Action<GameObject> OnAddItemToInventory;
+
+    public float dropDistance = 1f;
 
     private void Awake()
     {
@@ -24,10 +29,13 @@ public class InventoryManager : MonoBehaviour
         }
     }
 
+    void Start()
+    {
+        SlottedItem.OnDropItemFromInventory += HandleItemDrop;
+    }
+
     public void TryAddItem(GameObject itemGO)
     {
-        ItemData itemData = itemGO.GetComponent<ItemPickup>().itemData;
-
         // if (currentInventoryWeight + itemData.itemWeight > inventoryCapacity)
         if (inventoryItems.Count >= inventoryCapacity) // Using item count for capacity check
         {
@@ -45,5 +53,18 @@ public class InventoryManager : MonoBehaviour
         inventoryItems.Add(itemGO);
         itemGO.SetActive(false); // Hide the item in the world
         Debug.Log($"Added {itemData.itemName} with weight {itemData.itemWeight} to inventory.");
+        OnAddItemToInventory?.Invoke(itemGO);
+    }
+
+    private void HandleItemDrop(GameObject itemGO)
+    {
+        if (inventoryItems.Contains(itemGO))
+        {
+            itemGO.transform.position = PlayerController.Instance.transform.position + Vector3.right * PlayerController.Instance.FacingDirection * dropDistance;
+            itemGO.SetActive(true); // Show the item in the world again
+            inventoryItems.Remove(itemGO);
+            Debug.Log($"Dropped {itemGO.name} from inventory.");
+            
+        }
     }
 }
