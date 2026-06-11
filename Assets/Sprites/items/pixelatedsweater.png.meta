@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: e2262adfd0b024d51a566b258026df0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6278189245242133560
+    second: pixelatedsweater_0
+  - first:
+      213: 3389283055379648239
+    second: pixelatedsweater_1
+  - first:
+      213: -6287350733466076460
+    second: pixelatedsweater_2
+  - first:
+      213: -3591118303616079364
+    second: pixelatedsweater_3
+  - first:
+      213: 7943829587302495754
+    second: pixelatedsweater_4
+  - first:
+      213: -2348867410685724698
+    second: pixelatedsweater_5
+  - first:
+      213: -2219853054872237801
+    second: pixelatedsweater_6
+  - first:
+      213: -8283957592119568602
+    second: pixelatedsweater_7
+  - first:
+      213: 862460987759643630
+    second: pixelatedsweater_8
+  - first:
+      213: 1375232274659955036
+    second: pixelatedsweater_9
+  - first:
+      213: -561987144240124119
+    second: pixelatedsweater_10
+  - first:
+      213: -5588449922227086668
+    second: pixelatedsweater_11
+  - first:
+      213: -2523742687881120169
+    second: pixelatedsweater_12
+  - first:
+      213: 1476456264231272916
+    second: pixelatedsweater_13
+  - first:
+      213: 3837391904363382339
+    second: pixelatedsweater_14
+  - first:
+      213: -8255319304558085464
+    second: pixelatedsweater_15
+  - first:
+      213: 4751433985166835851
+    second: pixelatedsweater_16
+  - first:
+      213: 6732848030496945871
+    second: pixelatedsweater_17
+  - first:
+      213: 1254010078533047827
+    second: pixelatedsweater_18
+  - first:
+      213: -4755884268922676241
+    second: pixelatedsweater_19
+  - first:
+      213: 5526205664087926360
+    second: pixelatedsweater_20
+  - first:
+      213: -6123448381183473680
+    second: pixelatedsweater_21
+  - first:
+      213: -849961492179386400
+    second: pixelatedsweater_22
+  - first:
+      213: 7019831975263412783
+    second: pixelatedsweater_23
+  - first:
+      213: 219620288947637618
+    second: pixelatedsweater_24
+  - first:
+      213: -3867571070629405455
+    second: pixelatedsweater_25
+  - first:
+      213: 3699825363926093445
+    second: pixelatedsweater_26
+  - first:
+      213: 5490327656114918650
+    second: pixelatedsweater_27
+  - first:
+      213: 4383640508222804526
+    second: pixelatedsweater_28
+  - first:
+      213: -111719819521726503
+    second: pixelatedsweater_29
+  - first:
+      213: -6019095743842445592
+    second: pixelatedsweater_30
+  - first:
+      213: -7925549564640616106
+    second: pixelatedsweater_31
+  - first:
+      213: -8344386605433506969
+    second: pixelatedsweater_32
+  - first:
+      213: -7482588101716387311
+    second: pixelatedsweater_33
+  - first:
+      213: 960947362725783124
+    second: pixelatedsweater_34
+  - first:
+      213: -2295004673281472356
+    second: pixelatedsweater_35
+  - first:
+      213: -3364014663745171518
+    second: pixelatedsweater_36
+  - first:
+      213: 4782411868089138891
+    second: pixelatedsweater_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixelatedsweater_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 451
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c33aac05246fd8a0800000000000000
+      internalID: -6278189245242133560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 447
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee872f4bf6290f20800000000000000
+      internalID: 3389283055379648239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 451
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da7679d1d7deb8a0800000000000000
+      internalID: -6287350733466076460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 447
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf96f8eede8c92ec0800000000000000
+      internalID: -3591118303616079364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 451
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a063763ebe62e3e60800000000000000
+      internalID: 7943829587302495754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 447
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7f599e885276fd0800000000000000
+      internalID: -2348867410685724698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 451
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71946ca686f7131e0800000000000000
+      internalID: -2219853054872237801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 448
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6271053d578790d80800000000000000
+      internalID: -8283957592119568602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 480
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebcb08e2b318fb00800000000000000
+      internalID: 862460987759643630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 473
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5152cea77ec51310800000000000000
+      internalID: 1375232274659955036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 431
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f2b3b7bab6338f0800000000000000
+      internalID: -561987144240124119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_11
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 431
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba58949766d172b0800000000000000
+      internalID: -5588449922227086668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 431
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7563b50956dd9fcd0800000000000000
+      internalID: -2523742687881120169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 431
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1c7e3562d6d7410800000000000000
+      internalID: 1476456264231272916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_14
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 393
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3460a8b0b97214530800000000000000
+      internalID: 3837391904363382339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 358
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaf360c4d63f6d80800000000000000
+      internalID: -8255319304558085464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 271
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80869b090c70f140800000000000000
+      internalID: 4751433985166835851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_17
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 237
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc675709c91ef6d50800000000000000
+      internalID: 6732848030496945871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_18
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 150
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316d8bbb583276110800000000000000
+      internalID: 1254010078533047827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 118
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febdef58474bffdb0800000000000000
+      internalID: -4755884268922676241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 31
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85666bbb5c601bc40800000000000000
+      internalID: 5526205664087926360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 25
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f74e170424250ba0800000000000000
+      internalID: -6123448381183473680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 31
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eff2e1b6845434f0800000000000000
+      internalID: -849961492179386400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 25
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2221842df37b6160800000000000000
+      internalID: 7019831975263412783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_24
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 31
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d413c3d7f3c0300800000000000000
+      internalID: 219620288947637618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 26
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc9e8f3a90a35ac0800000000000000
+      internalID: -3867571070629405455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_26
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 31
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e8bc3e09b685330800000000000000
+      internalID: 3699825363926093445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_27
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 25
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af49b3b0aef813c40800000000000000
+      internalID: 5490327656114918650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 31
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2212a311d1d5dc30800000000000000
+      internalID: 4383640508222804526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d769038a67137ef0800000000000000
+      internalID: -111719819521726503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6943fbf40e77ca0800000000000000
+      internalID: -6019095743842445592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65128dd89aac20290800000000000000
+      internalID: -7925549564640616106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763bb92c798c23c80800000000000000
+      internalID: -8344386605433506969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a51a414c1882890800000000000000
+      internalID: -7482588101716387311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4566e1bf888f55d00800000000000000
+      internalID: 960947362725783124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_35
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98423bb8618620e0800000000000000
+      internalID: -2295004673281472356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_36
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf83449c7e9051d0800000000000000
+      internalID: -3364014663745171518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixelatedsweater_37
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceb017714a8e5240800000000000000
+      internalID: 4782411868089138891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixelatedsweater_0: -6278189245242133560
+      pixelatedsweater_1: 3389283055379648239
+      pixelatedsweater_10: -561987144240124119
+      pixelatedsweater_11: -5588449922227086668
+      pixelatedsweater_12: -2523742687881120169
+      pixelatedsweater_13: 1476456264231272916
+      pixelatedsweater_14: 3837391904363382339
+      pixelatedsweater_15: -8255319304558085464
+      pixelatedsweater_16: 4751433985166835851
+      pixelatedsweater_17: 6732848030496945871
+      pixelatedsweater_18: 1254010078533047827
+      pixelatedsweater_19: -4755884268922676241
+      pixelatedsweater_2: -6287350733466076460
+      pixelatedsweater_20: 5526205664087926360
+      pixelatedsweater_21: -6123448381183473680
+      pixelatedsweater_22: -849961492179386400
+      pixelatedsweater_23: 7019831975263412783
+      pixelatedsweater_24: 219620288947637618
+      pixelatedsweater_25: -3867571070629405455
+      pixelatedsweater_26: 3699825363926093445
+      pixelatedsweater_27: 5490327656114918650
+      pixelatedsweater_28: 4383640508222804526
+      pixelatedsweater_29: -111719819521726503
+      pixelatedsweater_3: -3591118303616079364
+      pixelatedsweater_30: -6019095743842445592
+      pixelatedsweater_31: -7925549564640616106
+      pixelatedsweater_32: -8344386605433506969
+      pixelatedsweater_33: -7482588101716387311
+      pixelatedsweater_34: 960947362725783124
+      pixelatedsweater_35: -2295004673281472356
+      pixelatedsweater_36: -3364014663745171518
+      pixelatedsweater_37: 4782411868089138891
+      pixelatedsweater_4: 7943829587302495754
+      pixelatedsweater_5: -2348867410685724698
+      pixelatedsweater_6: -2219853054872237801
+      pixelatedsweater_7: -8283957592119568602
+      pixelatedsweater_8: 862460987759643630
+      pixelatedsweater_9: 1375232274659955036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
