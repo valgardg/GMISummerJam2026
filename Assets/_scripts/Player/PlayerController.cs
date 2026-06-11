@@ -1,10 +1,14 @@
+using JetBrains.Annotations;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private SpriteRenderer spriteRenderer;
     [SerializeField] private Animator _animator;
+
+    InputAction moveAction;
     private Rigidbody2D rb;
     private Vector2 input;
 
@@ -25,6 +29,7 @@ public class PlayerController : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        moveAction = InputSystem.actions.FindAction("Move");
     }
 
     private void Update()
@@ -35,9 +40,13 @@ public class PlayerController : MonoBehaviour
         {
             facingDirection = Mathf.Sign(input.x);
             spriteRenderer.flipX = input.x < 0;
+        }
+        
+        if(moveAction.IsPressed())
+        {
             _animator.SetBool("isRunning", true);
         }
-        else
+        if(moveAction.WasReleasedThisFrame())
         {
             _animator.SetBool("isRunning", false);
         }
